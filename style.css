@@ -3,9 +3,14 @@ body{
   font-family: "Poppins", sans-serif;
   margin:auto;
 }
+header{
+  background-image:url("./purpleflowers.avif");
+  width:100%;
+  height:70px;
+}
 div img{
     align-items: center;
-    margin-left: 500px;
+    margin-left: 400px;
   } 
   .attic{
     margin: 150px;
