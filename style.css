@@ -20,6 +20,9 @@ div p{
     width: 75%;
     margin: auto;
 }
+div span{
+  color: blueviolet;
+}
 div h2{
     text-align: center;
 }
@@ -34,3 +37,193 @@ blockquote{
     text-align: center;
     color: blueviolet;
 }
+ 
+footer {
+  background-color:purple;
+  color:white;
+  text-align: center;
+  font-size:x-small;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+  position:relative;
+  bottom: 0;
+  width: 100%;
+}
+@media only screen and (max-width:320px){
+  div {
+      width: 100%;
+   }
+   
+
+  div img{
+  margin:50px;
+  height:150px;
+  width:150px;
+  
+}
+div .attic{
+  margin:50px;
+  height:200px;
+  width:200px
+  
+}
+div p{
+  font-size:smaller ;
+
+}
+div  blockquote{
+  font-size:smaller ;
+
+}
+
+}
+
+@media only screen and (min-width: 321px) and (max-width:480px) {
+  div{
+      width:90%;
+  }
+  div img{
+    margin:100px;
+      height:200px;
+      width:200px;
+     
+
+  }
+ 
+
+div .attic{
+margin:100px;
+height:250px;
+width:250px
+
+}
+div p{
+font-size:small ;
+
+}
+div  blockquote{
+font-size:small ;
+
+}
+}
+
+/* Media Query for low resolution  Tablets, Ipads */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  div{
+    width:90%;
+}
+div img{
+  margin:150px;
+    height: 300px;
+    width:300px;
+   
+
+}
+
+
+div .attic{
+margin:150px;
+height:350px;
+width:350px
+
+}
+div p{
+font-size:medium ;
+
+}
+div  blockquote{
+font-size:medium;
+
+}
+ 
+
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  div{
+    width:90%;
+}
+div img{
+  margin:150px;
+    height: 400px;
+    width:400px;
+   
+
+}
+
+
+div .attic{
+margin:150px;
+height:450px;
+width:450px
+
+}
+div p{
+font-size:medium ;
+
+}
+div  blockquote{
+font-size:medium;
+
+}
+} 
+ 
+/* Media Query for Laptops and Desktops */
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+  div{
+    width:90%;
+}
+div img{
+  margin:150px;
+    height: 450px;
+    width:450px;
+   
+
+}
+
+
+div .attic{
+margin:150px;
+height:550px;
+width:550px
+
+}
+div p{
+font-size:large ;
+
+}
+div  blockquote{
+font-size:large;
+
+}
+  
+}
+
+/* Media Query for Large screens */
+@media only screen and (min-width: 1281px) {
+  div{
+    width:90%;
+}
+div img{
+  margin:200px;
+    height: 600px;
+    width:600px;
+   }
+
+
+div .attic{
+margin:200px;
+height:700px;
+width:700px;
+
+}
+div p{
+font-size:large ;
+
+}
+div  blockquote{
+font-size:large;
+
+}
+}  
