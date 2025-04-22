@@ -10,7 +10,9 @@ header{
 }
 div img{
     align-items: center;
-    margin-left: 400px;
+    margin: 500px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   } 
   .attic{
     margin: 150px;
@@ -28,7 +30,14 @@ div h2{
 }
 div h3{
     text-align: center;
+    font-style: italic;
     color: purple;
+}
+div #myaudio{
+  text-align: center;
+  margin-left: 500px;
+    align-items: center;
+ justify-content: center;
 }
 .moral{
     color: blueviolet;
@@ -57,12 +66,16 @@ footer {
 
   div img{
   margin:50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   height:150px;
   width:150px;
   
 }
 div .attic{
   margin:50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   height:200px;
   width:200px
   
@@ -84,6 +97,8 @@ div  blockquote{
   }
   div img{
     margin:100px;
+    margin-top: 0px;
+  margin-bottom: 0px;
       height:200px;
       width:200px;
      
@@ -93,6 +108,8 @@ div  blockquote{
 
 div .attic{
 margin:100px;
+margin-top: 0px;
+  margin-bottom: 0px;
 height:250px;
 width:250px
 
@@ -114,6 +131,8 @@ font-size:small ;
 }
 div img{
   margin:150px;
+  margin-top: 0px;
+  margin-bottom: 0px;
     height: 300px;
     width:300px;
    
@@ -123,6 +142,8 @@ div img{
 
 div .attic{
 margin:150px;
+margin-top: 0px;
+  margin-bottom: 0px;
 height:350px;
 width:350px
 
@@ -146,6 +167,8 @@ font-size:medium;
 }
 div img{
   margin:150px;
+  margin-top: 0px;
+  margin-bottom: 0px;
     height: 400px;
     width:400px;
    
@@ -155,6 +178,8 @@ div img{
 
 div .attic{
 margin:150px;
+margin-top: 0px;
+  margin-bottom: 0px;
 height:450px;
 width:450px
 
@@ -176,6 +201,8 @@ font-size:medium;
 }
 div img{
   margin:150px;
+  margin-top: 0px;
+  margin-bottom: 0px;
     height: 450px;
     width:450px;
    
@@ -185,6 +212,8 @@ div img{
 
 div .attic{
 margin:150px;
+margin-top: 0px;
+  margin-bottom: 0px;
 height:550px;
 width:550px
 
@@ -207,6 +236,8 @@ font-size:large;
 }
 div img{
   margin:200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
     height: 600px;
     width:600px;
    }
@@ -214,6 +245,8 @@ div img{
 
 div .attic{
 margin:200px;
+margin-top: 0px;
+  margin-bottom: 0px;
 height:700px;
 width:700px;
 
