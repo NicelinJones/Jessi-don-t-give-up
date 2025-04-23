@@ -16,14 +16,16 @@ header{
   border: 2px solid;
   border-radius: 20px;
 }
-div img{
+.box img{
     align-items: center;
-    margin: 500px;
+    margin-left:250px;
     margin-top: 0px;
     margin-bottom: 0px;
   } 
   .attic{
-    margin: 150px;
+    margin:auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 div p{
     text-align: center;
@@ -43,7 +45,9 @@ div h3{
 }
 div #myaudio{
   text-align: center;
-  margin-left: 400px;
+  margin-left: 425px;
+  margin-top: 0px;
+  margin-bottom: 0px;
     align-items: center;
  justify-content: center;
 }
@@ -72,16 +76,21 @@ footer {
    }
    
 
-  div img{
-  margin:50px;
+  .box img{
+  margin-left: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
   height:150px;
   width:150px;
   
 }
-div .attic{
-  margin:50px;
+div #myaudio{
+  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.box .attic{
+  margin:0px;
   margin-top: 0px;
   margin-bottom: 0px;
   height:200px;
@@ -103,8 +112,8 @@ div  blockquote{
   div{
       width:90%;
   }
-  div img{
-    margin:100px;
+  .box img{
+    margin-left:20px;
     margin-top: 0px;
   margin-bottom: 0px;
       height:200px;
@@ -112,10 +121,15 @@ div  blockquote{
      
 
   }
+  .box #myaudio{
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
  
 
-div .attic{
-margin:100px;
+.box .attic{
+margin:20x;
 margin-top: 0px;
   margin-bottom: 0px;
 height:250px;
@@ -137,8 +151,8 @@ font-size:small ;
   div{
     width:90%;
 }
-div img{
-  margin:150px;
+.box img{
+  margin:50px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 300px;
@@ -146,10 +160,14 @@ div img{
    
 
 }
+.box #myaudio{
+  margin: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 
-
-div .attic{
-margin:150px;
+.box .attic{
+margin:50px;
 margin-top: 0px;
   margin-bottom: 0px;
 height:350px;
@@ -173,8 +191,8 @@ font-size:medium;
   div{
     width:90%;
 }
-div img{
-  margin:150px;
+.box img{
+  margin:100px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 400px;
@@ -182,10 +200,14 @@ div img{
    
 
 }
+.box #myaudio{
+  margin: 200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 
-
-div .attic{
-margin:150px;
+.box .attic{
+margin:100px;
 margin-top: 0px;
   margin-bottom: 0px;
 height:450px;
@@ -208,18 +230,21 @@ font-size:medium;
     width:90%;
 }
 div img{
-  margin:150px;
+  margin:250px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 450px;
     width:450px;
-   
-
-}
-
+   }
+   .box #myaudio{
+    margin: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
 
 div .attic{
-margin:150px;
+margin:250px;
 margin-top: 0px;
   margin-bottom: 0px;
 height:550px;
@@ -243,16 +268,21 @@ font-size:large;
     width:90%;
 }
 div img{
-  margin:200px;
+  margin:250px;
   margin-top: 0px;
   margin-bottom: 0px;
     height: 600px;
     width:600px;
    }
-
+   .box #myaudio{
+    margin: 425px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
 
 div .attic{
-margin:200px;
+margin:250px;
 margin-top: 0px;
   margin-bottom: 0px;
 height:700px;
