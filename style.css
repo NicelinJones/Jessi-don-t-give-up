@@ -23,21 +23,22 @@ body{
   width:50%;
   text-align: center;
 }
-#hd a #nv1{
+#hd #nv1{
   width:20%;
   margin-top:auto;
     font-weight: bold;
     font-size:large;
-    color:blue;
+    color:cornflowerblue;
     cursor: pointer;
     border-radius: 5px;
     
 }
-#hd a #nv2{
+#hd #nv2{
   width:20%;
+  margin-top: auto;
     font-weight: bold;
     font-size:large;
-    color:blue;
+    color:cornflowerblue;
     cursor: pointer;
     border-radius: 5px;
     
